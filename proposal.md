@@ -7,7 +7,7 @@ Brent
 Hema
 
 
-## Project Name : Effect of Natural Disasters on Quality of Life
+## Project Name : Effect of Hurricanes on Quality of Life
 
 ### Outline: 
   * Map where natural disasters occur for reference
@@ -32,7 +32,11 @@ Hema
 
 Data collection: 
 * Create dataframe with all relevant locations of hurricans for the past two years
+  * Plot this on a map
 * Create dataframe with all relevant census data, including an axis you can merge on to the master dataframe
+
+Plot: 
+* Plot all relevant metrics (crime rate, housing, number of jobs, health effects) to scatter plots
 
 ### Clean Data:
 
