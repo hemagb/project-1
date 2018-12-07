@@ -18,6 +18,9 @@ Hema
 ### Questions to answer: 
 * How does quality of life change following a natural disaster?
 * Do metrics go up or down?
+* Are certain cities/states prone to more dramatic changes in quality of life metrics than others? i.e. does the state of Florida experience more property crimes per capita following a hurricane than the state of Alabama?
+* What is the change over time in quality of life metrics for cities affected by hurricanes? How long does it take for City X to see normalized crime prior to disaster Y, for instance? How well does the data reflect the resiliency of a city?
+* Do major metropolitan cities experience more or less dramatic changes in these aforementioned metrics than smaller cities or towns?
   
 ### Datasets to be used: 
   * FBI API
