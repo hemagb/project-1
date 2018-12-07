@@ -1,4 +1,4 @@
-# Project | Effect of Hurricanse on Quality of Life
+# Project | Effect of Hurricanes on Quality of Life
 
 ## To do:
 
