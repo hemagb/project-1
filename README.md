@@ -1,4 +1,4 @@
-# Project | Effect of Hurricanes on Quality of Life
+# Project | Housing Market and its affordability  
 
 ## To do:
 
